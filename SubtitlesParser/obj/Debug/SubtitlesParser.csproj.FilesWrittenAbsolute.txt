@@ -1,0 +1,5 @@
+/Users/biezhihua/RiderProjects/SubtitlesParser/SubtitlesParser/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/biezhihua/RiderProjects/SubtitlesParser/SubtitlesParser/bin/Debug/SubtitlesParser.exe.mdb
+/Users/biezhihua/RiderProjects/SubtitlesParser/SubtitlesParser/bin/Debug/SubtitlesParser.exe
+/Users/biezhihua/RiderProjects/SubtitlesParser/SubtitlesParser/obj/Debug/SubtitlesParser.exe
+/Users/biezhihua/RiderProjects/SubtitlesParser/SubtitlesParser/obj/Debug/SubtitlesParser.exe.mdb
