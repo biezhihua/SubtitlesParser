@@ -1,0 +1,3 @@
+/Users/biezhihua/RiderProjects/SubtitlesParser/SubtitlesParser/obj/Debug/SubtitlesParser.csprojResolveAssemblyReference.cache
+/Users/biezhihua/RiderProjects/SubtitlesParser/SubtitlesParser/obj/Debug/SubtitlesParser.csproj.CoreCompileInputs.cache
+/Users/biezhihua/RiderProjects/SubtitlesParser/SubtitlesParser/obj/Debug/SubtitlesParser.exe
